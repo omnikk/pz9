@@ -12,7 +12,7 @@
 
 Как запустить
 
-1) Клонировать репозиторий:
+1)Клонировать репозиторий:
 
         git clone -b main --single-branch https://github.com/omnikk/PZ9.git
         cd PZ9/pz9-auth
